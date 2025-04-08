@@ -2,8 +2,6 @@
 
 I am a civil engineer driven by curiosity and enthusiasm for learning new things. I am currently exploring the possibilities of web development with a focus on back-end development. As an experienced certified road/highway design engineer, I am trying to implement the skills and experience I have gained into an entirely new field. I strive to implement good practices and keep things simple when writing code.
 
-![karinanikolova's Stats](https://github-readme-stats.vercel.app/api?username=karinanikolova&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 Skillset and personal traits
 - Logical thinking
 - Problem solving
