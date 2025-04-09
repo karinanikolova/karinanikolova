@@ -12,7 +12,7 @@ I am a civil engineer driven by curiosity and enthusiasm for learning new things
 - Positive with a good sense of humor
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
