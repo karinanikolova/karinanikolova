@@ -16,10 +16,9 @@ I am a civil engineer driven by curiosity and enthusiasm for learning new things
 
 ## 🌱 Currently Exploring
 
-- Finishing programming courses
-- Learning and filling in the gaps with HTML and CSS
-- Learning Full Stack Web Development
-- Seeking a new project idea
+- Working on a new web project
+- Trying to fill in the gaps and achieve deeper knowledge of programming, frameworks, APIs, web protocols, code readability, and clean code principles
+- Learning full stack web development
 
  ## 🏆 Achievements
 
